@@ -6,5 +6,5 @@ This project is implemented using C language. The IDE used is NetBeans 8.1 on a 
 
 ## TODO list:
 
-*Encoding
-*Decoding
+* Encoding
+* Decoding
